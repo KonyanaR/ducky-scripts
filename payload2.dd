@@ -1,0 +1,49 @@
+REM ################################################
+REM
+REM    Title    : It uninstalls a specified application
+REM    Author   : Liteboho Maseli, Konyana Relebohile & Khiba Ratele
+REM    Target   : Windows 10
+REM    Date     : 05/02/24
+REM    Version  : 1.0
+REM ################################################
+
+REM OPEN CONTROL PANEL
+WINDOWS
+DELAY 500
+STRING control panel
+DELAY 500
+ENTER
+DELAY 500
+STRING uninstall a program
+DELAY 500
+DOWN
+DELAY 500
+DOWN
+DELAY 500
+DOWN
+DELAY 500
+ENTER
+DELAY 500
+CTRL E
+DELAY 500
+STRING vlc media player
+DELAY 500
+DOWN
+DELAY 500
+DOWN
+DELAY 500
+ENTER
+DELAY 700
+TAB
+DELAY 500
+TAB
+DELAY 500
+ENTER
+DELAY 1500
+ENTER
+DELAY 2000
+ENTER
+DELAY 5000
+ENTER
+
+
