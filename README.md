@@ -6,4 +6,4 @@ Katleho Ratele.
 Contact us:
 konyana660@gmail.com |
 litebohomaseli3@gmail.com |
-khkbaratele27@gmail.com
+khibaratele27@gmail.com
