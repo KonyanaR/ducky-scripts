@@ -1,0 +1,14 @@
+REM ################################################
+REM
+REM    Title    : Shut down any Windows PC
+REM    Author   : Liteboho Maseli, Konyana Relebohile & Khiba Ratele
+REM    Target   : Windows 10, 11
+REM    Date     : 05/02/24
+REM    Version  : 1.0
+REM ################################################
+REM Hold windows + X 
+WINDOWS x
+DELAY 300
+u
+DELAY 300 
+u
