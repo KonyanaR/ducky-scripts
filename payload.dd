@@ -8,7 +8,7 @@ REM    Version  : 1.0
 REM ################################################
 REM Hold windows + X 
 WINDOWS x
-DELAY 300
+DELAY 400
 u
-DELAY 300 
+DELAY 400 
 u
