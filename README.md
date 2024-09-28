@@ -6,4 +6,4 @@ Khiba Ratele.
 Contact us:
 konyana660@gmail.com |
 litebohomaseli3@gmail.com |
-khibaratele27@gmail.com
+katlehoratele@gmail.com
